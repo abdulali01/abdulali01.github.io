@@ -4,7 +4,7 @@
 Highlight of key projects
 ___________________________
 
-<a href="https://github.com/abdulali01/PacMan">Pacman </a>
+<a href="http://abdulali01.github.io/PacMan">Pacman</a>
 Eye Exercise
 Real Time Bus Tracker
      

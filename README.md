@@ -8,7 +8,7 @@ ___________________________
 2. <a href="https://abdulali01.github.io/MouseMovement/">Eye Exercise - I called it MouseMovement just for fun of it.</a>
 3. <a href="https://abdulali01.github.io/MapRoute/">Real Time Bus Tracker</a>
 
-linkedIn: abdulali01.github.io
+linkedIn: <a href="https://abdulali01.github.io/">abdulali01.github.io </a>
 Contact: abdullah.ali1@gmail.com
 
      
